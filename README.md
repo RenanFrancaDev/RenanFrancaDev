@@ -1,4 +1,5 @@
-## Olá, eu sou o Renan, sou Engenheiro de produção em transição de carreira para Desenvolvedor Front-End
+## Olá, eu sou o Renan,
+Engenheiro de produção em transição de carreira para Desenvolvedor Front-End.
 
 <ul>
  <li>🌍 Estudante de linguagens de programação Front-End</li>
