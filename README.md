@@ -1,8 +1,9 @@
 ## Olá, eu sou o Renan,
-Engenheiro de produção em transição de carreira para Desenvolvedor Front-End.
+Desenvolvedor Front-End
 
 <ul>
  <li>🌍 Estudante de linguagens de programação</li>
+ <li>🎓 Análise e Desenvolvimento de Sistemas</li>
  <li>🎓 Engenharia de Produção Mecânica</li>
  <li>📍  São Paulo - SP</li>
  <li>📧 renanfranca.dev@gmail.com</li>
