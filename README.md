@@ -10,7 +10,7 @@ With my engineering background and tech knowledge, I constantly strive to enhanc
 Please review my portfolio and feel free to contact me if you have any questions.
 
 <ul>
- <li>🌍 Front-End Developer and Full Stack Developer</li>
+ <li>🌍 Full Stack Developer</li>
  <li>👨‍💻 Analysis and Development</li>
  <li>🎓 Manufacturing engineering</li>
  <li>📍 São Paulo - SP</li>
