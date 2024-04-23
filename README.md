@@ -3,7 +3,7 @@
 
 
 ## About me
-I'm a manufacturing engineering experienced in the supply chain industry and I transitioned to the tech sector and am currently studying Analysis and Systems Development at the University of Taubaté, as well as a full stack technology program at DNC School. Currently, I provide services for a fintech company and also work as a freelance developer.
+I'm a manufacturing engineering experienced in the supply chain industry and I transitioned to the tech sector and currently studying Analysis and Systems Development at the University of Taubaté, as well as a full stack technology program at DNC School. Currently, I provide services for a fintech company and also work as a freelance developer.
 
 With my engineering background and tech knowledge, I constantly strive to enhance my skills and create innovative solutions. I am passionate about developing efficient and user-friendly systems that cater to companies needs. My experience in the supply chain field, combined with my current focus on technology, has given me a well -rounded understanding of the development process. I am always ready to tackle new challenges and collaborate with others to create impactful projects. My ultimate goal is to contribute to organizational success by leveraging my technical expertise and problem-solving abilities.
 
