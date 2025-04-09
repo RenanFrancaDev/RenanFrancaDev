@@ -3,23 +3,28 @@
 
 
 ## About me
-I'm a manufacturing engineering experienced in the supply chain industry and I transitioned to the tech sector and currently studying Analysis and Systems Development at the University of Taubaté, as well as a full stack technology program at DNC School. Currently, I provide services for a fintech company and also work as a freelance developer.
-
-With my engineering background and tech knowledge, I constantly strive to enhance my skills and create innovative solutions. I am passionate about developing efficient and user-friendly systems that cater to companies needs. My experience in the supply chain field, combined with my current focus on technology, has given me a well -rounded understanding of the development process. I am always ready to tackle new challenges and collaborate with others to create impactful projects. My ultimate goal is to contribute to organizational success by leveraging my technical expertise and problem-solving abilities.
-
+Former Manufacturing Engineer with hands-on experience in production workflows and business operations, now transitioning into tech with a focus on development efficiency. Currently pursuing a degree in Analysis and Systems Development (University of Taubaté) and a Full Stack Program (DNC School).
 Please review my portfolio and feel free to contact me if you have any questions.
+
+I bring a unique perspective to development:
+ 
+<ul>
+ <li><b>Front-end:</b>  React.js, JavaScript, Bootstrap</li>
+ <li><b>Back-end:</b>  Studying Node.js & C# (open to opportunities)</li>
+ <li><b>Business Acumen:</b> Deep understanding of workflow optimization and business rules from my engineering career—translating real-world needs into functional systems.</li>
+</ul>
 
 <ul>
  <li>🌍 Full Stack Developer</li>
  <li>👨‍💻 Analysis and Development</li>
  <li>🎓 Manufacturing engineering</li>
- <li>📍 São Paulo - SP</li>
+ <li>📍 Caçapava - SP</li>
  <li>📧 renanfranca.dev@gmail.com</li>
 <br>
- <div>
+<!--  <div>
    <a href"https://github.com/RenanFrancaDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFrancaDev&show_icons=true&theme=dark">
- </div>
+ </div> -->
 
   ## Techs
   <div style="display:inline_block"><br>
@@ -33,6 +38,7 @@ Please review my portfolio and feel free to contact me if you have any questions
    <img align="center" alt="nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="mongodb" height="60" width="60" src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg">
     <img align="center" alt="mongodb" height="60" width="60" src="https://www.cdnlogo.com/logos/m/10/mysql.svg">
+    <img align="center" alt="mongodb" height="60" width="60" src="https://static.cdnlogo.com/logos/c/70/csharp.svg">
    
            
    
